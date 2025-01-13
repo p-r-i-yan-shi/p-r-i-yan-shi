@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-r-i-yan-shi" alt="p-r-i-yan-shi" /></a> </p>
 
-- 🌱 I’m currently learning Data structure and Algorithms 
+- 🌱 I’m currently learning PHP.
 
 - 💬 Ask me about **HTML,CSS and UI/UX**
 
