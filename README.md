@@ -1,3 +1,5 @@
+<img src="![Pixel Study GIF - Pixel Study - Discover   Share GIFs](https://github.com/user-attachments/assets/391d7ff5-6c85-44ce-a91e-60b08bd699a3)
+" alt="banner" style="width: 100%; height: auto;">
 <h2> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Priyanshi </h2>
 <h3 align="center">A passionate Web Developer from India</h3>
 
