@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/391d7ff5-6c85-44ce-a91e-60b08bd699a3" alt="banner" style="width: 200%; height: 100%;">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://github.com/user-attachments/assets/391d7ff5-6c85-44ce-a91e-60b08bd699a3" width="759" height="426">
+
+
 <h2> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Priyanshi </h2>
 <h3 align="center">A passionate Web Developer from India</h3>
 
