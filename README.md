@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanshi</h1>
+<h2> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Priyanshi </h2>
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-r-i-yan-shi&label=Profile%20views&color=0e75b6&style=flat" alt="p-r-i-yan-shi" /> </p>
